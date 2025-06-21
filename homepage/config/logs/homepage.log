@@ -1,0 +1,1112 @@
+[2025-06-19T23:49:48.371Z] info: kubernetes.yaml was copied to the config folder
+[2025-06-19T23:54:03.309Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.438Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.441Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.444Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.450Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.452Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.453Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.461Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.465Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.468Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.474Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:54:03.488Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.777Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.866Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.870Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.876Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.881Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.885Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.891Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.897Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.900Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.904Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.907Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.915Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:55:44.947Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:56:25.667Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:56:25.673Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:56:31.676Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:56:31.679Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.624Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.704Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.710Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.716Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.723Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.728Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.734Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.742Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.745Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.752Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.761Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.764Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-19T23:59:16.811Z] error: Host validation failed for: 0.0.0.0:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:05:36.512Z] info: docker.yaml was copied to the config folder
+[2025-06-20T00:05:36.513Z] info: services.yaml was copied to the config folder
+[2025-06-20T00:05:36.513Z] info: bookmarks.yaml was copied to the config folder
+[2025-06-20T00:05:36.518Z] info: widgets.yaml was copied to the config folder
+[2025-06-20T00:05:36.519Z] info: custom.css was copied to the config folder
+[2025-06-20T00:05:36.519Z] info: custom.js was copied to the config folder
+[2025-06-20T00:59:58.543Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.554Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.558Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.565Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.571Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.575Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.582Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.586Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T00:59:58.592Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.659Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.696Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.698Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.699Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.702Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.714Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.716Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.728Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.733Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.735Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.738Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.740Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:01.758Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.922Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.965Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.966Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.970Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.974Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.980Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.981Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.984Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.986Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.987Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.989Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:02.991Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.006Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.915Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.955Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.957Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.959Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.960Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.962Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.963Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.967Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.969Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.970Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.972Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.974Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:03.993Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.206Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.250Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.252Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.255Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.257Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.260Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.262Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.263Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.268Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.269Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.271Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.274Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:13.284Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.980Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.982Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.984Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.986Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.987Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.989Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.990Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:18.992Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:19.009Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.073Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.197Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.200Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.205Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.212Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.219Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.222Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.226Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.228Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.235Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.238Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.274Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:00:31.348Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.518Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.595Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.597Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.600Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.603Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.604Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.607Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.609Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.610Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.616Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.623Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.641Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:38.688Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:47.799Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:47.801Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.845Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.885Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.888Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.890Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.893Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.899Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.903Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.913Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.918Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.923Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.926Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.930Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:48.945Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.583Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.625Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.627Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.628Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.630Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.632Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.634Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.637Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.640Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.642Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.645Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.653Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:01:49.662Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:24.346Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:24.354Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:32.072Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:32.077Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.052Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.127Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.133Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.138Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.149Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.152Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.154Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.157Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.162Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.167Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.170Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.178Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:33.218Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.186Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.239Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.242Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.247Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.250Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.255Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.258Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.261Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.265Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.277Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.314Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.316Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:55.345Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:57.972Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.009Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.012Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.014Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.016Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.017Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.019Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.024Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.027Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.028Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.030Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.033Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:02:58.053Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:51.352Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:51.355Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.460Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.504Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.506Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.509Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.512Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.518Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.520Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.522Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.524Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.526Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.527Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.536Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:52.541Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.249Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.290Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.294Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.296Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.298Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.300Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.302Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.305Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.307Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.309Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.310Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.318Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:03:53.327Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:44.951Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:44.953Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.436Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.480Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.481Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.484Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.487Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.490Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.493Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.494Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.497Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.500Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.505Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.511Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:07:46.525Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:21.129Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:21.137Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.231Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.274Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.278Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.283Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.287Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.290Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.293Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.298Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.300Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.305Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.309Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.312Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:22.323Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.040Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.083Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.090Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.093Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.094Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.096Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.098Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.108Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.110Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.112Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.115Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.117Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.138Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.770Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.812Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.816Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.818Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.820Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.821Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.822Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.825Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.826Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.828Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.831Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.845Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:23.853Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.431Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.471Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.474Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.475Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.476Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.479Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.481Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.485Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.487Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.488Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.490Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.497Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:24.506Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.474Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.556Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.559Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.561Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.563Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.565Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.567Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.569Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.571Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.574Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.576Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.601Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:09:40.680Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:10:06.813Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:10:06.814Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:30.269Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:30.271Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.376Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.419Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.422Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.424Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.426Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.428Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.430Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.432Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.434Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.439Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.443Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.446Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:31.462Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.511Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.556Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.558Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.560Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.563Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.568Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.570Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.575Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.579Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.580Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.581Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.583Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T01:12:32.603Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:46.836Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.033Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.038Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.040Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.042Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.045Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.048Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.051Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.054Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.057Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.062Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:47.103Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:53.957Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:53.962Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:16:55.042Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:33.769Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:33.774Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:34.634Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:49.366Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:49.372Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:49.373Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:57.668Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:17:57.681Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:01.603Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.586Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.595Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.599Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.604Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.606Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.610Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.617Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.621Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.627Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.673Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:02.700Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:53.928Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:53.939Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.178Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.184Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.187Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.190Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.192Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.196Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.199Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.203Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.208Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.272Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:18:59.277Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.000Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.012Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.015Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.017Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.018Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.020Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.022Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.024Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.028Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.033Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:20:10.150Z] error: Host validation failed for: dashboard.hablau-labs.cc. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.892Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.899Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.901Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.903Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.904Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.907Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.910Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.913Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:30:57.929Z] error: Host validation failed for: 192.168.1.168:3000. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-20T02:49:32.600Z] error: <httpProxy> Error calling http://hablau-labs.cc/api/tokens...
+[2025-06-20T02:49:32.604Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:49:32.605Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:49:42.132Z] error: <httpProxy> Error calling http://hablau-labs.cc/api/tokens...
+[2025-06-20T02:49:42.133Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:49:42.134Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:49:51.606Z] error: <httpProxy> Error calling http://hablau-labs.cc/api/tokens...
+[2025-06-20T02:49:51.607Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:49:51.608Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:50:03.456Z] error: <httpProxy> Error calling http://hablau-labs.cc/api/tokens...
+[2025-06-20T02:50:03.457Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:50:03.457Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:50:10.985Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:50:10.986Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:50:10.987Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:50:11.328Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:50:11.329Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:50:11.330Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:53:03.016Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:53:03.017Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:53:03.017Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:53:03.254Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'local')
+    at u (/app/.next/server/chunks/7325.js:1:18033)
+    at l (/app/.next/server/pages/api/docker/status/[...service].js:1:1034)
+    at X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18447)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+[2025-06-20T02:53:03.321Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:53:03.322Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:53:03.322Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:53:05.289Z] error: <dockerStatsService> TypeError: Cannot read properties of null (reading 'local')
+    at u (/app/.next/server/chunks/7325.js:1:18033)
+    at l (/app/.next/server/pages/api/docker/stats/[...service].js:1:2991)
+    at X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18447)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+[2025-06-20T02:53:13.800Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'local')
+    at u (/app/.next/server/chunks/7325.js:1:18033)
+    at l (/app/.next/server/pages/api/docker/status/[...service].js:1:1034)
+    at X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18447)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+[2025-06-20T02:53:13.803Z] error: <dockerStatsService> TypeError: Cannot read properties of null (reading 'local')
+    at u (/app/.next/server/chunks/7325.js:1:18033)
+    at l (/app/.next/server/pages/api/docker/stats/[...service].js:1:2991)
+    at X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18447)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+[2025-06-20T02:53:13.844Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:53:13.844Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:53:13.844Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:53:43.219Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'local')
+    at u (/app/.next/server/chunks/7325.js:1:18033)
+    at l (/app/.next/server/pages/api/docker/status/[...service].js:1:1034)
+    at X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18447)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+[2025-06-20T02:53:43.228Z] error: <dockerStatsService> TypeError: Cannot read properties of null (reading 'local')
+    at u (/app/.next/server/chunks/7325.js:1:18033)
+    at l (/app/.next/server/pages/api/docker/stats/[...service].js:1:2991)
+    at X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18447)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+[2025-06-20T02:53:43.271Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:53:43.272Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:53:43.272Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:53:43.553Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:53:43.554Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:53:43.554Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:53:43.614Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:55:25.363Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:55:25.363Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:55:25.364Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:55:25.370Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:55:25.697Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:55:25.697Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:55:25.698Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:55:25.707Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:56:25.692Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:56:25.692Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:56:25.693Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:56:25.744Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:56:26.087Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:56:26.088Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:56:26.089Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:56:26.132Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:56:32.259Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:56:32.260Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:56:32.260Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:56:32.270Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:57:19.741Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:57:20.071Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:57:20.072Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:57:20.072Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:57:20.072Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:58:06.972Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:58:06.984Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:58:06.985Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:58:06.985Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:58:25.536Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:58:26.497Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:58:26.500Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:58:26.501Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:58:26.865Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:58:26.875Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:58:26.876Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:58:26.876Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:58:32.037Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:58:32.046Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:58:32.046Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:58:32.047Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:59:06.317Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:59:06.424Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:59:06.431Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:59:06.431Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:59:06.789Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:59:06.790Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:59:06.790Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:59:06.864Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:59:55.918Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:59:55.919Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:59:55.919Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:59:55.924Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T02:59:56.223Z] error: <httpProxy> Error calling https://hablau-labs.cc/api/tokens...
+[2025-06-20T02:59:56.224Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND hablau-labs.cc] {
+    errno: -3007,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hablau-labs.cc'
+  }
+]
+[2025-06-20T02:59:56.224Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"https://hablau-labs.cc/api/tokens","rawError":[500,{"errno":-3007,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"hablau-labs.cc"}]}}
+[2025-06-20T02:59:56.262Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:00:32.631Z] error: undefined
+[2025-06-20T03:00:32.634Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at y (/app/.next/server/pages/api/services/proxy.js:45:14628)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:00:32.931Z] error: undefined
+[2025-06-20T03:00:32.932Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at y (/app/.next/server/pages/api/services/proxy.js:45:14628)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:00:32.986Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:00:43.000Z] error: undefined
+[2025-06-20T03:00:43.001Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at y (/app/.next/server/pages/api/services/proxy.js:45:14628)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:01:03.347Z] error: undefined
+[2025-06-20T03:01:03.348Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at y (/app/.next/server/pages/api/services/proxy.js:45:14628)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:03:49.377Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:03:49.379Z] error: undefined
+[2025-06-20T03:03:49.380Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at y (/app/.next/server/pages/api/services/proxy.js:45:14628)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:03:54.587Z] error: undefined
+[2025-06-20T03:03:54.588Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at y (/app/.next/server/pages/api/services/proxy.js:45:14628)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:05:07.082Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:05:07.394Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:05:12.033Z] error: <httpProxy> Error calling http://nginxproxymanager-nginxproxymanager:81/api/tokens...
+[2025-06-20T03:05:12.034Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN nginxproxymanager-nginxproxymanager] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nginxproxymanager-nginxproxymanager'
+  }
+]
+[2025-06-20T03:05:12.034Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://nginxproxymanager-nginxproxymanager:81/api/tokens","rawError":[500,{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"nginxproxymanager-nginxproxymanager"}]}}
+[2025-06-20T03:05:12.374Z] error: <httpProxy> Error calling http://nginxproxymanager-nginxproxymanager:81/api/tokens...
+[2025-06-20T03:05:12.375Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN nginxproxymanager-nginxproxymanager] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nginxproxymanager-nginxproxymanager'
+  }
+]
+[2025-06-20T03:05:12.375Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://nginxproxymanager-nginxproxymanager:81/api/tokens","rawError":[500,{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"nginxproxymanager-nginxproxymanager"}]}}
+[2025-06-20T03:05:20.272Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:05:25.243Z] error: <httpProxy> Error calling http://nginxproxymanager-nginxproxymanager:81/api/tokens...
+[2025-06-20T03:05:25.244Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN nginxproxymanager-nginxproxymanager] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nginxproxymanager-nginxproxymanager'
+  }
+]
+[2025-06-20T03:05:25.244Z] error: <npmProxyHandler> Error 500 logging into npm {"error":{"message":"Unknown error","url":"http://nginxproxymanager-nginxproxymanager:81/api/tokens","rawError":[500,{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"nginxproxymanager-nginxproxymanager"}]}}
+[2025-06-20T03:06:00.835Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:06:01.142Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:06:09.204Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:06:24.484Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:12:50.903Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:12:51.232Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:12:51.321Z] error: <httpProxy> Error calling https://portainer.host.or.ip:9443/api/endpoints/1/docker/containers/json...
+[2025-06-20T03:12:51.322Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND portainer.host.or.ip] {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'portainer.host.or.ip'
+  }
+]
+[2025-06-20T03:12:51.322Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://portainer.host.or.ip:9443/api/endpoints/1/docker/containers/json?all=1
+[2025-06-20T03:12:59.710Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:12:59.713Z] error: <httpProxy> Error calling https://portainer.host.or.ip:9443/api/endpoints/1/docker/containers/json...
+[2025-06-20T03:12:59.713Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo ENOTFOUND portainer.host.or.ip] {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'portainer.host.or.ip'
+  }
+]
+[2025-06-20T03:12:59.714Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://portainer.host.or.ip:9443/api/endpoints/1/docker/containers/json?all=1
+[2025-06-20T03:13:21.484Z] error: undefined
+[2025-06-20T03:13:21.485Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:13:21.535Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:13:21.770Z] error: undefined
+[2025-06-20T03:13:21.771Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:13:21.824Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:13:26.807Z] error: undefined
+[2025-06-20T03:13:26.809Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:13:29.729Z] error: undefined
+[2025-06-20T03:13:29.730Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:13:29.781Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:13:30.020Z] error: undefined
+[2025-06-20T03:13:30.022Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:13:30.060Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:13:35.076Z] error: undefined
+[2025-06-20T03:13:35.077Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:13:55.091Z] error: undefined
+[2025-06-20T03:13:55.092Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at c (/app/.next/server/pages/api/services/proxy.js:45:18253)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+    at async handleRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:428:24)
+    at async requestHandlerImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:452:13)
+[2025-06-20T03:14:09.335Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://192.168.1.168:9000/api/endpoints/1/docker/containers/json?all=1
+[2025-06-20T03:14:09.403Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:14:09.637Z] error: <credentialedProxyHandler> HTTP Error 404 calling http://192.168.1.168:9000/api/endpoints/1/docker/containers/json?all=1
+[2025-06-20T03:14:09.707Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:14:44.068Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://192.168.1.168:9000/api/endpoints/local/docker/containers/json?all=1
+[2025-06-20T03:14:44.103Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:14:44.349Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://192.168.1.168:9000/api/endpoints/local/docker/containers/json?all=1
+[2025-06-20T03:14:44.404Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:15:55.346Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:15:55.683Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:27:17.035Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:31:23.248Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:31:23.592Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:31:29.760Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:32:08.543Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2025-06-20T03:33:55.172Z] error: <dockerStatusService> Error: connect EACCES /var/run/docker.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+    at PipeConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)

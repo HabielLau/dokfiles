@@ -1,0 +1,11 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings/
+
+title: Hablau Labs Homepage
+
+background: https://i.imgur.com/dyFyYqy.jpeg
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey

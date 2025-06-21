@@ -1,0 +1,36 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- My First Group:
+    - My First Service:
+        href: http://localhost/
+        description: Homepage is awesome
+
+- My Second Group:
+    - My Second Service:
+        href: http://localhost/
+        description: Homepage is 😎
+
+- Docker:
+    - Portainer:
+        href: http://port.hablau-labs.cc
+        description: Docker Portainer
+        widget:
+          type: portainer
+          url: http://192.168.1.168:9000
+          env: 3
+          key: ptr_nkCoBjiruV+8UziPIfHa3I/OIzbtz2RLzuWsSpRGWv0=
+          fields: ["running","stopped","total"]
+
+- Web:
+    - Proxy:
+        href: http://hablau-labs.cc
+        description: Nginx Reverse Proxy
+        container: nginx-proxy-manager
+        widget:
+          type: npm
+          url: http://192.168.1.168:81
+          username: tcwilliamson86@gmail.com
+          password: webkuro04
+          fields: ["enabled","disabled","total"]
